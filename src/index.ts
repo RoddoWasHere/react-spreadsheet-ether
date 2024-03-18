@@ -1,9 +1,12 @@
 import Spreadsheet from "./Spreadsheet";
 import DataEditor from "./DataEditor";
 import DataViewer from "./DataViewer";
+import ColumnIndicator from "./ColumnIndicator";
+import RowIndicator from "./RowIndicator";
 
 export default Spreadsheet;
 export { Spreadsheet, DataEditor, DataViewer };
+export { ColumnIndicator, RowIndicator }
 export type { Props } from "./Spreadsheet";
 export { createEmpty as createEmptyMatrix } from "./matrix";
 export type { Matrix } from "./matrix";
