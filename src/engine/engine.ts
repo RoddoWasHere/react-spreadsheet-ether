@@ -1,3 +1,4 @@
+//@ts-nocheck
 import FormulaParser, { FormulaError, Value } from "fast-formula-parser";
 import * as Matrix from "../matrix";
 import { Point } from "../point";

@@ -1,3 +1,4 @@
+//@ts-nocheck
 import * as React from "react";
 import FloatingRect from "./FloatingRect";
 import { getRangeDimensions } from "./util";

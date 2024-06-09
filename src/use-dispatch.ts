@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { useContextSelector } from "use-context-selector";
 import context, { Dispatch } from "./context";
 

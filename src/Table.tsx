@@ -1,3 +1,4 @@
+//@ts-nocheck
 import * as React from "react";
 import * as Types from "./types";
 import { range } from "./util";

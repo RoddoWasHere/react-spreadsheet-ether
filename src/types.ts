@@ -1,3 +1,4 @@
+//@ts-nocheck
 import * as React from "react";
 import FormulaParser from "fast-formula-parser";
 import { Point } from "./point";

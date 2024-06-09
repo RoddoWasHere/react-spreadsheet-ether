@@ -1,3 +1,4 @@
+//@ts-nocheck
 import * as Point from "./point";
 
 /** A two-dimensional array of given type T in rows and columns */

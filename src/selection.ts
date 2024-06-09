@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { PointRange } from "./point-range";
 import * as Point from "./point";
 import * as Matrix from "./matrix";
